@@ -17,6 +17,6 @@
 2 Edit config.py and add values api_id, api_hash and your bot token
 3 Create an app on Heroku and connect heroku with your github repository 
 4 Manual Deploy 
-```
-![Deploty](https://telegra.ph/file/5085d4eb1524abc64f633.jpg)
-<a href="heroku.com/new?template=github.com/EaBro/MissRose"</a>
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/new?template=https://github.com/EaBro/MissRose)
+
