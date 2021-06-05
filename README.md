@@ -10,6 +10,6 @@
 ![logo](https://telegra.ph/file/86cc2e654b1157f12b94f.jpg)
 # Reach me on Telegram [Rose 🎶](https://t.me/missrosesong_bot)
 
-
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/new?template=https://github.com/EaBro/MissRose)
+# Deploy To Heroku
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy/template=https://github.com/EaBro/MissRose)
 
