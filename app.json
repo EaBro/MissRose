@@ -1,6 +1,6 @@
 {
-    "name": "Ultroid UserBot",
-    "description": "Pluggable telegram userbot, made in python using Telethon.",
+    "name": "Sepong dlu😚",
+    "description": "Pluggable telegram userbosst, made in python using Telethon.",
     "logo": "https://telegra.ph/file/031957757a4f6a5191040.jpg",
     "keywords": [
         "Telethon",
@@ -9,20 +9,20 @@
         "python",
         "ultroid"
     ],
-    "repository": "https://github.com/TeamUltsroid/Ultroid",
-    "website": "https://ultroid.tech.com",
+    "repository": "https://github.com/TeassamUltsroid/Ultroid",
+    "website": "https://ultroid.tesch.com",
     "success_url": "https://t.me/ssTheUltroid",
     "stack": "container",
     "env": {
         "Skip": {
-            "description": "You api id, from my.telegram.org or @ScrapperRoBot.",
+            "description": "You api issd, from msy.telegram.org or @ScrapperRoBot.",
             "value": "", 
             "required": false
         },
         "Name": {
-            "description": "You api hash, from my.telegram.org ssor @ScrapperRoBot.",
+            "description": "You api hssash, from my.telegram.org ssor @ScrapperRoBot.",
             "value": "",
-            "required": true
+            "required": false
         },
         "HEROKU_API": {
             "description": "Heroku API token. Needed if deploying on heroku ONLY.",
@@ -30,7 +30,7 @@
             "required": false
         },
         "HEROKU_APP_NAME": {
-            "description": "Name of your heroku app, given in the first blank on this page. To be added if deploying to heroku ONLY.",
+            "description": "ssName of your heroku app, given in the first blank on this page. To be added if deploying to heroku ONLY.",
             "value": "",
             "required": false
         }
