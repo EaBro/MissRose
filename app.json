@@ -1,0 +1,48 @@
+{
+    "name": "Ultroid UserBot",
+    "description": "Pluggable telegram userbot, made in python using Telethon.",
+    "logo": "https://telegra.ph/file/031957757a4f6a5191040.jpg",
+    "keywords": [
+        "Telethon",
+        "telegram",
+        "userbot",
+        "python",
+        "ultroid"
+    ],
+    "repository": "https://github.com/TeamUltsroid/Ultroid",
+    "website": "https://ultroid.tech.com",
+    "success_url": "https://t.me/ssTheUltroid",
+    "stack": "container",
+    "env": {
+        "Skip": {
+            "description": "You api id, from my.telegram.org or @ScrapperRoBot.",
+            "value": "", 
+            "required": false
+        },
+        "Name": {
+            "description": "You api hash, from my.telegram.org ssor @ScrapperRoBot.",
+            "value": "",
+            "required": true
+        },
+        "HEROKU_API": {
+            "description": "Heroku API token. Needed if deploying on heroku ONLY.",
+            "value": "",
+            "required": false
+        },
+        "HEROKU_APP_NAME": {
+            "description": "Name of your heroku app, given in the first blank on this page. To be added if deploying to heroku ONLY.",
+            "value": "",
+            "required": false
+        }
+    },
+    "formation": {
+        "worker": {
+            "quantity": 1,
+            "size": "free"
+        },
+        "web": {
+            "quantity": 0,
+            "size": "free"
+        }
+    }
+}
