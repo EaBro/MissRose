@@ -11,5 +11,5 @@
 # Reach me on Telegram [Rose 🎶](https://t.me/missrosesong_bot)
 
 # Deploy To Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy/template=https://github.com/EaBro/MissRose)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/EaBro/MissRose)
 
