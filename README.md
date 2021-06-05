@@ -16,7 +16,7 @@
 1 Fork the Repository
 2 Edit config.py and add values api_id, api_hash and your bot token
 3 Create an app on Heroku and connect heroku with your github repository 
-4 Manual Deploy 
+4 Manual Deploy ```
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/new?template=https://github.com/EaBro/MissRose)
 
