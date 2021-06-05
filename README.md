@@ -19,4 +19,4 @@
 4 Manual Deploy 
 ```
 ![Deploty](https://telegra.ph/file/5085d4eb1524abc64f633.jpg)
-heroku.com/new?template=https://github.com/EaBro/MissRose
+<a href="heroku.com/new?template=github.com/EaBro/MissRose"</a>
