@@ -18,3 +18,5 @@
 3 Create an app on Heroku and connect heroku with your github repository 
 4 Manual Deploy 
 ```
+![Deploty](https://telegra.ph/file/5085d4eb1524abc64f633.jpg)
+heroku.com/new?template=https://github.com/EaBro/MissRose
